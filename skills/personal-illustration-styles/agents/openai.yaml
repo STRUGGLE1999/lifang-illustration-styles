@@ -1,0 +1,4 @@
+interface:
+  display_name: "私人画图风格库"
+  short_description: "沉淀、复用并持续扩充你的私人插画与信息图视觉风格库"
+  default_prompt: "Use $personal-illustration-styles to apply or expand my private illustration style library."
