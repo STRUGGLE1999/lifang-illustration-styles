@@ -25,17 +25,17 @@ skills/personal-illustration-styles/
 
 | 饱满知识漫画版 | 低密度简版 |
 |---|---|
-| ![full density hand drawn](./skills/personal-illustration-styles/assets/styles/hand-drawn-knowledge-comic/references/05-full-density-calibration.png) | ![workflow hand drawn](./skills/personal-illustration-styles/assets/styles/hand-drawn-knowledge-comic/references/02-conveyor-workflow.png) |
+| ![full density hand drawn](./examples/hand-drawn-full-density.png) | ![simple hand drawn test](./examples/hand-drawn-simple-test.png) |
 
 ### Colorful AI whiteboard infographic
 
-| AI 系统演进总览 | MCP 阶段讲义 |
+| AI 系统演进总览 | 知识工作者 Codex 指南 |
 |---|---|
-| ![AI system evolution](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/01-ai-system-evolution-comparison.png) | ![MCP poster](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/05-mcp-stage-poster.png) |
+| ![AI system evolution](./examples/colorful-whiteboard-evolution-test.png) | ![Codex guide](./examples/colorful-whiteboard-codex-guide.png) |
 
-| RAG 阶段讲义 | 上下文工程 |
+| 工作流库示例 | MCP 阶段讲义 |
 |---|---|
-| ![RAG poster](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/03-rag-stage-poster.png) | ![Context engineering poster](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/07-context-engineering-poster.png) |
+| ![Workflow library](./examples/colorful-whiteboard-workflow-library.png) | ![MCP poster](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/05-mcp-stage-poster.png) |
 
 ## 安装
 
@@ -120,4 +120,3 @@ npx skills add STRUGGLE1999/lifang-illustration-styles
 ## 许可证
 
 MIT License
-
