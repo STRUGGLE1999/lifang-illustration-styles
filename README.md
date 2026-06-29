@@ -1,6 +1,6 @@
 # Lifang Illustration Styles
 
-中文 | [GitHub 仓库](https://github.com/STRUGGLE1999/lifang-illustration-styles)
+中文 | [English](./README.en.md)
 
 这是一个私人插图风格库 Skill，用于让 Codex / 支持 Agent Skills 的本地智能体根据文章内容自动选择插图风格，并生成更稳定、更接近参考图的提示词。
 
@@ -103,6 +103,7 @@ npx skills add STRUGGLE1999/lifang-illustration-styles
 ```text
 .
 ├── README.md
+├── README.en.md
 ├── LICENSE
 └── skills/
     └── personal-illustration-styles/
