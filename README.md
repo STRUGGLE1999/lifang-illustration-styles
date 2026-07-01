@@ -18,6 +18,10 @@ skills/personal-illustration-styles/
 |---|---|---|
 | Hand-drawn knowledge comic | 中文知识卡片、AI/职场观点、流程解释、社媒长图 | 暖米色纸张、抖动黑线、彩铅、火柴人、便利贴、橙色波浪强调 |
 | Colorful AI whiteboard infographic | LLM/RAG/Agent/MCP、AI 技术科普、架构图、课程讲义 | 白底、粗马克笔标题、彩色分栏、机器人讲解员、技术图标、高密度白板海报 |
+| Warm handdrawn card series | 中文文章卡片、小红书/社媒知识卡、AI/职场/产品观点 | 暖纸底、大号手写标题、橙色关键词、页码角标、圆角编号卡片、底部金句 |
+| Warm handdrawn blog illustration | 博客头图、公众号/知乎/CSDN 正文横图、文章段落配图 | 16:9 暖纸横图、手绘标题、中心隐喻场景、轻量标签和箭头、无页码角标 |
+| Handwritten lecture notes landscape | 博客文章横图、工作坊讲义、横向对比图、旧/新规则解释 | 16:9 米白纸、蓝灰手写标题、黑色笔记文字、黄色重点、框图箭头、右上角不写格式标签 |
+| Handwritten lecture notes portrait | 竖版长页讲义、中文解释页、步骤拆解、学习笔记 | A4 感米白纸、蓝灰标题、黑色手写正文、黄色重点、流程框、旁注、底部总结 |
 
 ## 效果预览
 
@@ -36,6 +40,18 @@ skills/personal-illustration-styles/
 | 工作流库示例 | MCP 阶段讲义 |
 |---|---|
 | ![Workflow library](./examples/colorful-whiteboard-workflow-library.png) | ![MCP poster](./skills/personal-illustration-styles/assets/styles/colorful-ai-whiteboard-infographic/references/05-mcp-stage-poster.png) |
+
+### Warm handdrawn card series
+
+| AI 职场新法则卡片 |
+|---|
+| ![Warm handdrawn card series career rules](./examples/warm-handdrawn-card-series-career-rules.png) |
+
+### Handwritten lecture notes
+
+| 横版手写讲义 | 竖版手写讲义 |
+|---|---|
+| ![Handwritten lecture notes landscape career rules](./examples/handwritten-lecture-notes-landscape-career-rules.png) | ![Handwritten lecture notes portrait career rules](./examples/handwritten-lecture-notes-portrait-career-rules.png) |
 
 ## 安装
 
@@ -87,6 +103,14 @@ npx skills add STRUGGLE1999/lifang-illustration-styles
 
 ```text
 使用 $personal-illustration-styles 的 colorful AI whiteboard infographic 风格，为这篇 LLM/RAG/Agent/MCP 技术文章生成演进对比海报。
+```
+
+```text
+使用 $personal-illustration-styles 的 handwritten lecture notes landscape 风格，为这篇职场文章生成一张横版手写讲义式配图。
+```
+
+```text
+使用 $personal-illustration-styles 的 handwritten lecture notes portrait 风格，为这篇文章生成一张竖版手写笔记长页。
 ```
 
 ## 如何继续增加新风格
